@@ -16,7 +16,7 @@ This section contains my official certification awarded upon successful completi
 
 ## Certificate Preview
 
-![Cyseck Certification](Cyseck Certification.jpeg)
+![Cyseck Certification](Cyseck-Certification.jpeg)
 
 ---
 
