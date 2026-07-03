@@ -16,9 +16,7 @@ This section contains my official certification awarded upon successful completi
 
 ## Certificate Preview
 
-> *(Certificate image will appear below once uploaded.)*
-
-![CySecK Certificate](CySecK Certification.jpeg)
+![CySeck Certification](CySeck Certification.jpeg)
 
 ---
 
