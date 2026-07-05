@@ -5,7 +5,7 @@
 As part of the CySecK Cybersecurity Finishing School, I had the opportunity to attend **Bengaluru Tech Summit 2025**, one of India's premier technology and innovation events. The summit brought together technology companies, cybersecurity startups, researchers, entrepreneurs, government organizations, and industry leaders to showcase emerging technologies and foster innovation.
 
 The visit provided valuable exposure to the evolving cybersecurity landscape, industry trends, and opportunities for collaboration within India's growing technology ecosystem.
-
+LinkedIn Post : https://lnkd.in/p/d_phjx6T
 ---
 
 # 🎯 Objectives
