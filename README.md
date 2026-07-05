@@ -1,10 +1,8 @@
-![Government of Karnataka](https://img.shields.io/badge/Government%20Program-CySecK-success)
-![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-blue)
-![Training](https://img.shields.io/badge/Training-180%20Hours-orange)
-![Digital Forensics](https://img.shields.io/badge/Digital-Forensics-purple)
-![Web Security](https://img.shields.io/badge/Web-Application%20Security-red)
-![CTF](https://img.shields.io/badge/CTF-Multiple%20Competitions-yellow)
-![Industry Exposure](https://img.shields.io/badge/Industry-IISc%20%7C%20BTS%202025-brightgreen)
+<p align="center">
+  <a href="https://github.com/DEV-prabh/Cyseck-Portfolio">
+    <img src="Cyseck.jpg" alt="CySecK Banner" width="100%">
+  </a>
+</p>
 
 # 🛡️ Cybersecurity Portfolio – CySecK Cybersecurity Finishing School
 
